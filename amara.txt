@@ -1,0 +1,5 @@
+nginx
+nodejs
+curl 
+run
+download in the directory 
