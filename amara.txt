@@ -1,5 +1,10 @@
 nginx
 nodejs
 curl 
-run
+run 
+git clone
 download in the directory 
+npm install or yarn install
+npm build or yarn build
+sudo cp-r/* /var/www/html
+sudo systemctl restart nginx
